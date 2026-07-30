@@ -1,0 +1,56 @@
+{
+  "Maria_eGFR": {
+    "plain_language": "Maria, your eGFR — a measure of how well your kidneys are filtering waste — has been slowly declining over the past 18 months. While your latest value is technically still near the acceptable range, the downward pattern is important to notice. It's like watching the fuel gauge go down steadily: it hasn't hit 'empty' yet, but the trend matters more than any single reading.",
+    "questions_for_doctor": [
+      "My eGFR has been going down over the last year and a half — what might be causing this trend?",
+      "Are there any medications or lifestyle changes that could help slow this decline?",
+      "How often should I have my kidney labs checked given this pattern?"
+    ],
+    "urgency": "Bring this up soon"
+  },
+  "Maria_Creatinine": {
+    "plain_language": "Maria, your creatinine level has been rising steadily and has now crossed above the normal range. Creatinine is a waste product your kidneys normally filter out, so rising levels can mean your kidneys are working less efficiently. This is worth discussing with your doctor — not an emergency, but something to address proactively.",
+    "questions_for_doctor": [
+      "My creatinine has been going up and is now above normal — what does this mean for my kidney health?",
+      "Could any of my current medications be affecting my creatinine levels?",
+      "Should I be monitoring my blood pressure or making dietary changes?"
+    ],
+    "urgency": "Discuss promptly"
+  },
+  "James_HbA1c": {
+    "plain_language": "James, your HbA1c — a measure of your average blood sugar over the past 2-3 months — has been gradually rising over the last two years. It's still close to the normal range, but the upward trend is a pattern worth paying attention to. Think of it as a slow, early signal rather than an immediate concern.",
+    "questions_for_doctor": [
+      "My HbA1c has been slowly rising — what's a healthy target range for me?",
+      "Are there dietary or activity changes that could help stabilize my blood sugar trends?",
+      "Should I start checking my blood sugar at home, or is lab monitoring enough?"
+    ],
+    "urgency": "Bring this up soon"
+  },
+  "Aisha_all": {
+    "plain_language": "Aisha, all of your lab results — including hemoglobin, white blood cells, sodium, and calcium — have been stable over the past year. This is exactly what we like to see: your values are staying within their normal ranges without any significant changes. No trends of concern were detected.",
+    "questions_for_doctor": [
+      "Are there any preventive screenings I should consider based on my age and family history?",
+      "How often should I get routine blood work done?",
+      "What changes in how I feel should prompt me to come in sooner than my next scheduled visit?"
+    ],
+    "urgency": "Routine"
+  },
+  "Robert_all": {
+    "plain_language": "Robert, your lab results — including potassium, eGFR, and creatinine — have been generally stable. One visit showed a temporary potassium elevation, but this appears to have been an isolated occurrence rather than a developing trend. Overall, there are no persistent patterns of concern in your data.",
+    "questions_for_doctor": [
+      "My potassium was once a bit high — should I avoid any specific foods or medications?",
+      "Are there any signs or symptoms I should watch for that could indicate my potassium is off?",
+      "Since I'm being monitored for hypertension, how often should my kidney labs be checked?"
+    ],
+    "urgency": "Routine"
+  },
+  "default": {
+    "plain_language": "Your lab results are stable and no concerning trends were detected. Continue with your regular check-ups and discuss any health concerns with your provider.",
+    "questions_for_doctor": [
+      "Are there any preventive health measures I should be taking?",
+      "When should I schedule my next routine lab work?",
+      "What symptoms or changes should prompt me to come in sooner?"
+    ],
+    "urgency": "Routine"
+  }
+}
