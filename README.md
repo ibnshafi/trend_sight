@@ -83,8 +83,6 @@ If no key is set, the app falls back to its pre-populated demo cache — the dem
 ```
 trendsight/
 ├── README.md
-├── STATUS.md
-├── video_script.md
 ├── requirements.txt
 ├── checkpoint_demo.py          # Standalone verification of Steps 1-4
 ├── maria_trend_chart.png       # Generated example chart
@@ -134,3 +132,11 @@ trendsight/
 ---
 
 *Built for Vitalitics 2026 — a beginner-friendly health-tech data-science hackathon.*
+
+## Status
+
+Hackathon prototype — functional end to end on synthetic data, not clinically validated, not under active development beyond demos.
+
+## License
+
+[MIT](LICENSE)
