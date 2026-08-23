@@ -49,8 +49,9 @@ Current standard-of-care often relies on single-value thresholding. TrendSight d
 ## How to Run
 
 ```bash
-# 1. Clone or navigate to the project
-cd trendsight
+# 1. Clone the project
+git clone https://github.com/hexa3/trend_sight
+cd trend_sight
 
 # 2. Create a virtual environment (recommended)
 python3 -m venv venv
